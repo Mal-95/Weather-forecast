@@ -8,7 +8,7 @@ a {
 }
 
 .weather-app {
-    background-color: #fff6f6;
+    background-color: #efdee9;
     max-width: 600px;
     margin: 50px auto;
     padding: 30px;
@@ -101,6 +101,13 @@ main {
     margin-bottom: 5px;
     color:rgb(201, 51, 196);
     font-weight: 550;
+}
+
+.weather-forecast-icon {
+    width: 88px;
+    height: 88px;
+    display: block;
+    margin: 0 auto;
 }
 
 .weather-forecast-temperatures {
